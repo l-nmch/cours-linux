@@ -1,6 +1,6 @@
 # Installation de LAMP
 
-⚠️ Ce cours fait suite au cours sur [LAMP](./"1. LAMP/README.md") ⚠️
+⚠️ Ce cours fait suite au cours sur [LAMP](../1.%20LAMP/README.md) ⚠️
 
 Dans ce cours nous allons voir comment installer [Wordpress](https://wordpress.org) sur une machine Debian 12 disposant de LAMP
 
