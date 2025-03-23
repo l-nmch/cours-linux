@@ -12,3 +12,5 @@ Dans ce cours nous allons voir comment installer [Wordpress](https://wordpress.o
 ## TP
 
 Voici la suite de commande attendu pour installer Wordpress sur votre VM
+
+TODO
